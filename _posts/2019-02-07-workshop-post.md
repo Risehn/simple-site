@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workshop!"
-date:   2019-02-09 16:36 -5000
+date:   2019-02-09 16:36 -0500
 categories: jekyll update
 ---
 A bunch of stuff.
